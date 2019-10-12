@@ -1,7 +1,7 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least an hour every week for the next 100 weeks or days (depends which one more avaialble).*
+### *I will code for at least an hour every week for the next 100 weeks or days (depends which one more available).*
 
 #### Start Date
 October 13th, 2019. 
